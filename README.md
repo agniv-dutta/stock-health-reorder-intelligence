@@ -62,8 +62,6 @@ The solution is designed for **AI for Good** use cases where reliability and exp
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
 ```text
 stock-health-reorder-intelligence/
 ├── sql/
